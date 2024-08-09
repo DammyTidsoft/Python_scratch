@@ -1,0 +1,16 @@
+
+print("---------------------")
+print("|                    |")
+print("|                    |")
+print("|                    |")
+print("|                    |")
+print("|                    |")
+print("----------------------")
+print("         /| ")
+print("        /  |")
+print("       /    |")
+print("      /      |")
+print("     /        |")
+print("    /           |")
+print("   /______________|")
+#making a circle
